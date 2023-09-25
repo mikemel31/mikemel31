@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏼‍💻 My name is Mike Melnikov and I'm a Software Developer
+- 👨🏼‍💻 My name is Mike Melnikov and I'm a Software Engineer | React | Javascript Developer
 - 🌱 I’m currently looking for a new opportunity & learning Nextjs and Python
 - 📫 How to reach me:
   1. My LinkedIn profile
