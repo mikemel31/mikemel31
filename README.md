@@ -17,4 +17,4 @@
 [Live site](https://mikesmarvel.herokuapp.com/)
 
 
-[Resume](https://portfolio-mike.herokuapp.com/static/media/mike_melnikov_resume.d4e1aec896c5321700cd.pdf)
+[Resume](https://docs.google.com/document/d/1Dkj_9h9QSagdiHZWci1YqM4ja8odGrbMItT8xGNI_1Y/edit)
