@@ -3,10 +3,11 @@
 - 👨🏼‍💻 My name is Mike Melnikov and I'm a Software Engineer | React | Javascript Developer
 - 🌱 I’m currently looking for a new opportunity & learning Nextjs and Python
 - 📫 How to reach me:
-  1. My LinkedIn profile
+ 1. My LinkedIn profile
 [LinkedIn](https://www.linkedin.com/in/mike-mel/)
-  2. Link to the LIVE portfolio website: 
+2. Link to the LIVE portfolio website: 
 [Portfolio](https://portfolio-mike.herokuapp.com/)
+ 3. Email: mihail3197@gmail.com
 
 # Links to my previous projects
 - Smart Food
