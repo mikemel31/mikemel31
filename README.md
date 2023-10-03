@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👨🏼‍💻 My name is Mike Melnikov and I'm a Software Engineer | React | Javascript Developer
-- 🌱 I’m currently looking for a new opportunity & learning Nextjs and Python
+- 👨🏼‍💻 My name is Mike Melnikov and I'm a Software Engineer | React | JavaScript Developer
+- 🌱 I’m currently looking for a new opportunity & learning Nextjs and TypeScript rn
 - 📫 How to reach me:
  1. My LinkedIn profile
 [LinkedIn](https://www.linkedin.com/in/mike-mel/)
