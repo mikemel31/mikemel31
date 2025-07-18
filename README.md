@@ -6,7 +6,7 @@
  1. My LinkedIn profile
 [LinkedIn](https://www.linkedin.com/in/mike-mel/)
 
- 3. Email: mihail3197@gmail.com
+ 3. Email: mihail3197@icloud.com
 
 # Links to my previous projects
 - Smart Food
